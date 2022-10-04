@@ -28,5 +28,5 @@ kafka-console-consumer --bootstrap-server broker:9092 \
 ```
 5. Stop the docker compose
 ```
-docker-compose stop
+docker-compose down
 ```
