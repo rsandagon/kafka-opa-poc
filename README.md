@@ -26,3 +26,7 @@ kafka-console-consumer --bootstrap-server broker:9092 \
                        --topic quickstart \
                        --from-beginning
 ```
+5. Stop the docker compose
+```
+docker-compose stop
+```
